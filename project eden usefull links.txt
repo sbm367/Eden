@@ -1,0 +1,56 @@
+
+https://blog.floydhub.com/gentle-introduction-to-text-summarization-in-machine-learning/
+
+send free reports in ppush marketing
+
+https://www.tubefilter.com/
+
+offerr other ways to consum dat arather than just trad dashboard, like customized email newsletter or bot
+
+https://support.google.com/youtube/answer/57955?hl=en
+
+https://web.stanford.edu/~jurafsky/slp3/
+
+https://medium.freecodecamp.org/a-beginner-friendly-introduction-to-containers-vms-and-docker-79a9e3e119b
+
+VERY HELPFUL --> https://github.com/johnafish/senticomment
+
+(This is kinda what firebase was made for)
+https://www.quora.com/Why-do-we-need-a-back-end-in-web-development-Cant-the-front-end-directly-send-requests-to-the-database
+
+https://www.upguard.com/articles/heroku-appengine
+
+Chalice, Serverless app framework for python
+
+higher level of abstraction, more expensive, serverless>paas>caas>iaas
+
+can also do ML in browser with TF.js and others, back to my firebase point about
+even needing a backend, and my even earlier  point about wondering if this data
+could be consumed via email newsletter or ssomething else
+
+https://www.quora.com/Should-I-use-AWS-Google-Cloud-Service-or-Digital-Ocean-for-a-small-to-medium-scale-inventory-application
+
+https://www.quora.com/How-is-Firebase-integrated-with-Google-Cloud-Platform
+
+https://github.com/rlancer/gapi-to-graphql
+
+https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-18-04
+https://www.digitalocean.com/pricing/#Compute
+https://www.digitalocean.com/hatch/ ???
+
+https://pbpython.com/visualization-tools-1.html
+
+https://old.reddit.com/r/Python/comments/4tuwoz/how_do_you_decide_between_the_plotting_libraries/
+
+https://www.datacamp.com/
+
+https://www.codecademy.com/learn/learn-web-scraping
+
+https://www.codecademy.com/learn/natural-language-processing
+
+https://www.heroku.com/free
+
+https://blog.patricktriest.com/host-webapps-free/
+
+
+
